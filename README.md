@@ -7,9 +7,9 @@ Se necesita contar con NPM y Go, además de GCC si se usa SQLite3 pues el mismo 
 Por otro lado, si quieres que el makefile funcione, debes contar con `make`
 
 
-- NPM: https://parzibyte.me/blog/2018/09/27/instalar-npm-node-js-windows/
-- Go: https://parzibyte.me/blog/2017/12/07/instalar-configurar-go-golang-en-windows-10/
-- GCC: https://parzibyte.me/blog/2018/09/27/instalar-gcc-64-bits-en-windows-con-mingw/
+- NPM: https://nodejs.org/en/download/
+- Go: https://go.dev/dl/
+- GCC: http://win-builds.org/doku.php/download_and_installation_from_windows
 
 Una vez que tengas el proyecto, abre una terminal en el mismo. Instala las dependencias de Node con:
 
